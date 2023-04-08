@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainLompatKatak
+comment0.text=\n\ Menyatakan\ class\ bernama\ MainLompatKatak\ untuk\ memanggil\n\ class\ lainnya\ seperti\ class\ Katak,\ class\ Pemain,\ dan\ class\ KotakPermainan.\n\ \n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=MainLompatKatak()
+comment1.text=\n\ @param\ Method\ constructor\ dengan\ tanpa\ parameter.\n
+comment2.params=
+comment2.target=void\ Mainkan()
+comment2.text=\n\ deklarasi\ method\ utama\ bernama\ Mainkan\ untuk\ bermain\ lompat\ katak\n\ dengan\ parameter\ nama,\ tingkat\ kesulitan,\ kotak,\ koin,\n\ dan\ menyelesaikan\ permainan.\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ \n\ @param\ args\ Method\ main\ untuk\ memanggil\ class\ Mainkan\ dan\ template\ awal\n\ \ \ \ \ \ \ \ \ \ \ \ \ ketika\ bermain.\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Koin
+comment0.text=\n\ Menyatakan\ class\ bernama\ Koin\ yang\ merupakan\ \n\ subclass\ dari\ class\ abstract\ KoinMonster.\n\ \n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.2\n
+comment1.params=nilai
+comment1.target=Koin(int)
+comment1.text=\n\ \n\ @param\ method\ constructor\ serta\ memanggil\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ class\ parent\ menggunakan\ keyword\ super()\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ pada\ nilai.\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\n\ Menyatakan\ class\ bernama\ Monster\ yang\ merupakan\ subclass\ dari\n\ class\ abstract\ KoinMonster.\n\ \n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.4\n
+comment1.params=nilai\ nama
+comment1.target=Monster(int,\ java.lang.String)
+comment1.text=\n\ \n\ @param\ nilai\ constructor\ serta\ memanggil\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ class\ parent\ menggunakan\ keyword\ super()\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ pada\ nilai\ dan\ nama.\n\ @param\ nama\n
+numComments=2

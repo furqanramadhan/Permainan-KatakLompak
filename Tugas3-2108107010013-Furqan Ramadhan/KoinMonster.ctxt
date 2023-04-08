@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=KoinMonster
+comment0.text=\n\ Membuat\ sebuah\ abstract\ class\ bernama\ KoinMonster\n\ yang\ memiliki\ dua\ subclass\n\ \n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.3\n
+comment1.params=nilai
+comment1.target=KoinMonster(int)
+comment1.text=\n\ \n\ @param\ nilai\ method\ constructor\ untuk\ menentukan\ nilai\ koin\n
+comment2.params=nilai\ nama
+comment2.target=KoinMonster(int,\ java.lang.String)
+comment2.text=\n\ \n\ @param\ nilai\ method\ constructor\ untuk\ menentukan\ nama\ monster\ berserta\ nilai\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ pengurangannya.\n\ @param\ nama\n
+comment3.params=
+comment3.target=int\ getNilai()
+comment3.text=\n\ \n\ @return\ method\ accessor\ untuk\ return\ dari\ nilai\ koin,\ serta\ juga\ dapat\ digunakan\ untuk\ return\ nilai\ monster.\n
+comment4.params=
+comment4.target=java.lang.String\ getNama()
+comment4.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ nama\ monster.\n
+comment5.params=nama
+comment5.target=void\ setNama(java.lang.String)
+comment5.text=\n\ \n\ @param\ nama\ Method\ mutator\ sebagai\ setter\ nama\ monster.\n
+comment6.params=nilaibaru
+comment6.target=void\ setNilai(int)
+comment6.text=\n\ \n\ @param\ nilaibaru\ method\ mutator\ sebagai\ setter\ nilai\ koin\ yang\ baru.\n
+numComments=7

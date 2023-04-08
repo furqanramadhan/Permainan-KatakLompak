@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pemain
+comment0.text=\n\ Menyatakan\ class\ bernama\ Pemain\ dimana\n\ pemain\ memiliki\ nama\ dan\ nilai.\n\n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.0\n\ \ \ \ \ \ \ \ \ \ link\ video\ \:\n\ \ \ \ \ \ \ \ \ \ https\://drive.google.com/file/d/1zavRXUjC_y-4TbGRock8yVQpdlh6_qgi/view?usp\=sharing\n
+comment1.params=nama
+comment1.target=Pemain(java.lang.String)
+comment1.text=\n\ \n\ @param\ nama\ Method\ constructor\ dengan\ parameter\ untuk\ menginisialisasi\ nama\n\ \ \ \ \ \ \ \ \ \ \ \ \ dan\ nilai\ default\ 0.\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ pemain\ ->\ nama\n
+comment3.params=nama
+comment3.target=void\ setNama(java.lang.String)
+comment3.text=\n\ \n\ @param\ nama\ Method\ mutator\ menggunakan\ parameter\ sebagai\ setter\ nama\ dari\n\ \ \ \ \ \ \ \ \ \ \ \ \ pemain.\n
+comment4.params=
+comment4.target=int\ getNilai()
+comment4.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ pemain\ ->\ nilai\n
+comment5.params=nilai
+comment5.target=void\ setNilai(int)
+comment5.text=\n\ \n\ @param\ Method\ accessor\ nilai\ menggunakan\ paramater\ sebagai\ setter\ nilai\ dari\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ pemain\n
+numComments=6

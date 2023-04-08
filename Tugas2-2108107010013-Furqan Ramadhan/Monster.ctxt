@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\n\ Menyatakan\ class\ Monster\ dimana\ monster\ akan\n\ mengurangi\ skor\ dari\ pemain\n\n\ @author\ Furqan\ Ramadhan\n\ @version\ 1.0\n\ \ \ \ \ \ \ \ \ \ link\ video\ \:\n\ \ \ \ \ \ \ \ \ \ https\://drive.google.com/file/d/1zavRXUjC_y-4TbGRock8yVQpdlh6_qgi/view?usp\=sharing\n
+comment1.params=
+comment1.target=Monster()
+comment1.text=\n\ @param\ Method\ constructor\ dengan\ tanpa\ paramater.\n
+comment2.params=nilai\ nama
+comment2.target=Monster(int,\ java.lang.String)
+comment2.text=\n\ \n\ @param\ nilai\ Method\ constructor\ dengan\ parameter\ untuk\ menginisialisasi\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ nilai\ serta\ nama.\n\ @param\ nama\n
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment3.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ monster\ ->\ nama\ monster\n
+comment4.params=
+comment4.target=int\ getNilai()
+comment4.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ monster\ ->\ nilai\n
+comment5.params=nama
+comment5.target=void\ setNama(java.lang.String)
+comment5.text=\n\ \n\ @param\ Method\ mutator\ sebagai\ setter\ nama\ monster.\n
+numComments=6
